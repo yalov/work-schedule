@@ -27,7 +27,7 @@ QT       += printsupport
 greaterThan(QT_MAJOR_VERSION, 4):{
     CONFIG += c++11
     QT += widgets
-    win32:RC_ICONS += pic\icon.ico
+    win32:RC_ICONS += icons\icon.ico
 }else: {
     QMAKE_CXXFLAGS += -std=c++11
 }

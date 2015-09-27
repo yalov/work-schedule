@@ -35,7 +35,9 @@ build-*_Qt_*
 
 
 #Also
-*.ini
-*.7z
-bin/
 */.directory
+*.ini
+bin/
+*.7z
+Work Schedule *.*/
+Thumbs.db
