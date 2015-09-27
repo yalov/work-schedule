@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>copying.html</file>
+        <file>actions-icons/application-exit.png</file>
+        <file>actions-icons/document-print.png</file>
+        <file>actions-icons/document-revert.png</file>
+        <file>actions-icons/document-save-as.png</file>
+        <file>actions-icons/help-about.png</file>
+        <file>actions-icons/qt.png</file>
+        <file>actions-icons/view-refresh.png</file>
+        <file>icons/logo.png</file>
+        <file>icons/tooltip.png</file>
+    </qresource>
+</RCC>

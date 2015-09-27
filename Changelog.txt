@@ -1,0 +1,22 @@
+## Changelog:
+#### WorkSchedule 1.9
+* Performance improvement
+* Update translation
+
+#### WorkSchedule 1.8
+* Update translation
+* Update color setting
+* Update app's icon
+* Fix human unreadable .ini format
+
+#### WorkSchedule 1.6
+* Dynamic language translation
+* Added date saving
+
+#### WorkSchedule 1.4 
+* Added color setting
+* Added saving setting 
+* Prettier menuBar
+
+#### WorkSchedule 1.2 
+* Transpose calendar
